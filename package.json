@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node index",
-    "dev":"nodemon index"
+    "dev":"nodemon server.js"
   },
   "author": "Anshika Gupta",
   "license": "ISC",
